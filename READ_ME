@@ -1,0 +1,14 @@
+# Coupon Recommendation System
+This project predicts coupon usage patterns using customer demographic and transaction data.
+
+## Tools & Technologies
+- Python
+- Pandas, NumPy, Scikit-learn
+- Power BI
+- Matplotlib, Seaborn
+
+## Objective
+To predict which users are most likely to use coupons and identify factors influencing coupon redemption.
+
+## Results
+Achieved 85% model accuracy using Random Forest Classifier.
